@@ -11,7 +11,7 @@ Here you can find some of my projects, which reflect my learning in game develop
 #
 [PT_BR]
 
-Olá! Sou um desenvolvedor de jogos, graduando pela PUC Minas. Eu me especializo no desenvolvimento de jogos usando Unity, onde trabalhei em diversos projetos, desde jogos 3D simples até experiências mais complexas. Ao longo da minha jornada, foquei em mecânicas de jogo, design de níveis, programação de UI e otimização de desempenho.
+Olá! Sou um desenvolvedor de jogos, graduado pela PUC Minas. Eu me especializo no desenvolvimento de jogos usando Unity, onde trabalhei em diversos projetos, desde jogos 3D simples até experiências mais complexas. Ao longo da minha jornada, foquei em mecânicas de jogo, design de níveis, programação de UI e otimização de desempenho.
 
 Aqui você pode encontrar alguns dos meus projetos, que refletem meu aprendizado no desenvolvimento de jogos. Fique à vontade para explorar!
 
